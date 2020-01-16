@@ -13,7 +13,7 @@ var path = "."; // current directory
 var proxyPort = "8283"; // default proxy server port
 var h5Server = "hermes.tac.com"; // H5 server
 var h5ServerPort = "25107"; // H5 Server port
-var h5Credentials = "monchj12:l3n0v0"; //H5 User Credentials
+var h5Credentials = "monchj12@tac:"; //H5 User Credentials
 
 console.log('Starting web server at localhost:' + port + '/mne/apps/crz001');
 connect().use('/mne/apps/crz001', serveStatic(path)).listen(port);
