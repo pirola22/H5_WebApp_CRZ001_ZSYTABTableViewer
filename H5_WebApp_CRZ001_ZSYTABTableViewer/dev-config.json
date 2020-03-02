@@ -1,6 +1,6 @@
 {
 	"name": "Applications Manager - CRZ001",
-	"description": "Displays available applications from custom tables,
+	"description": "Displays available applications from custom tables",
 	"version": "4.1.0 - 1-BUILD-1/25/2019",
 	"environment": "DEMO",
 	"inforIONAPI": {
